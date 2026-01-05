@@ -10,6 +10,9 @@ Curious mind, and a dream to crack top internships. Passionate about building re
   <a href="https://www.linkedin.com/in/ayushi-dhiman"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/your-leetcode-id"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
   <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+   <a href="https://www.researchgate.net/profile/Ayushi-Dhiman">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
+  </a>
 </p>  
 
 ---
