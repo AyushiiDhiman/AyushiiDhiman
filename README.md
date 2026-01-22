@@ -3,18 +3,63 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@aau.shhie) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/ayushidhiman2915) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Ayushidhiman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushidhiman07@gmail.com) 
+<p align="center">
+  <a href="https://linkedin.com/in/ayushidhiman2915">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         width="42"
+         title="LinkedIn"
+         style="border-radius:50%; margin:8px;" />
+  </a>
+
+  <a href="https://instagram.com/aau.shhie">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg"
+         width="42"
+         title="Instagram"
+         style="margin:8px;" />
+  </a>
+
+  <a href="https://medium.com/@Ayushidhiman">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg"
+         width="42"
+         title="Medium"
+         style="margin:8px;" />
+  </a>
+
+  <a href="mailto:ayushidhiman07@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
+         width="42"
+         title="Gmail"
+         style="margin:8px;" />
+  </a>
+
+  <a href="https://www.researchgate.net/profile/Ayushi-Dhiman">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/researchgate.svg"
+         width="42"
+         title="ResearchGate"
+         style="margin:8px;" />
+  </a>
+</p>
+
 
 ## 💻 Tech Stack:
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" style="border-radius:50%;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" style="border-radius:50%;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" style="border-radius:50%;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" style="border-radius:50%;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" style="border-radius:50%;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" style="border-radius:50%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" style="border-radius:50%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" style="border-radius:50%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" style="border-radius:50%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/render/render-original.svg" width="48" style="border-radius:50%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" style="border-radius:50%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" style="border-radius:50%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" style="border-radius:50%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" style="border-radius:50%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" style="border-radius:50%;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" style="border-radius:50%;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" style="border-radius:50%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="48" style="border-radius:50%;" />
 </p>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AyushiiDhiman&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
