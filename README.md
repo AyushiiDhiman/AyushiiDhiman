@@ -33,7 +33,7 @@ one contribution, and one lesson at a time 🚀
     <img src="https://skillicons.dev/icons?i=instagram" height="45" />
   </a>
   <a href="https://medium.com/@Ayushidhiman">
-    <img src="https://skillicons.dev/icons?i=medium" height="45" />
+    <img src="https://cdn.simpleicons.org/medium/FFFFFF" height="45" />
   </a>
   <a href="mailto:ayushidhiman07@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" />
@@ -42,14 +42,13 @@ one contribution, and one lesson at a time 🚀
     <img src="https://cdn.simpleicons.org/researchgate/00CCBB" height="45" />
   </a>
 </p>
-
 ---
 
 ## 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github" /><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas,selenium" /><br/>
+  <img src="https://skillicons.dev/icons?i=sklearn,numpy,pandas,selenium" /><br/>
   <img src="https://skillicons.dev/icons?i=linux,cloud,githubactions" />
 </p>
 
