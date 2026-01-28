@@ -45,13 +45,19 @@ one contribution, and one lesson at a time 🚀
 ---
 
 ## 💻 Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github" /><br/>
-  <img src="https://skillicons.dev/icons?i=sklearn,numpy,pandas,selenium" /><br/>
-  <img src="https://skillicons.dev/icons?i=linux,cloud,githubactions" />
-</p>
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js" /><br/>
 
+  <!-- Web -->
+  <img src="https://skillicons.dev/icons?i=html,css" /><br/>
+
+  <!-- ML / Data -->
+  <img src="https://skillicons.dev/icons?i=sklearn,numpy,pandas" /><br/>
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,selenium" />
+</p>
 ---
 
 ## 📊 GitHub Stats
